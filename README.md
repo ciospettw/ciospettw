@@ -1,1 +1,4 @@
-セザンヌの絵をキボンヌ! なんてね.. 老人がとなりでじっと見てたよ!
+dev @ padovia
+Geodata
+ciospettw on IG, DS
+Py, Swift, Node.js
