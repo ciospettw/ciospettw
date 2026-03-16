@@ -10,8 +10,6 @@ My work bridges the gap between **complex algorithmic mobility systems** and **u
 
 # 📊 GitHub Stats
 
-![Federico's GitHub stats](https://github-readme-stats.vercel.app/api?username=ciospettw\&show_icons=true\&theme=transparent)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ciospettw\&layout=compact\&theme=transparent)
 
 ---
